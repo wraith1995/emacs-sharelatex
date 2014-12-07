@@ -1,0 +1,3 @@
+* emacs-sharelatex
+A ShareLaTeX plugin for Emacs as inspired by thomashn's ShareLaTeX Vim
+plugin.
